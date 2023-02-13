@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: blast
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2c8eca7c6f1b15247b2a6bf5d0bb09f5, type: 3}
+    - {fileID: 102900000, guid: 93ef6960a2b6c964c9e499e73d1b3808, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 65a8e5120cf6d804696a6c0960ed9381, type: 3}
+  - {fileID: 21300000, guid: 1f662f84f9f420d46ab8cee20c49d742, type: 3}
+  - {fileID: 21300000, guid: 85a64ca6245b9e043a9868a4492e6964, type: 3}
+  - {fileID: 21300000, guid: 5e2412a72346aed41a134b2dca78c370, type: 3}
+  - {fileID: 21300000, guid: 87db0b29b4b135b49b3f01d6a3986d2e, type: 3}
+  - {fileID: 21300000, guid: 663cf0691d9222f47bc6f0a4168ac9e6, type: 3}
+  - {fileID: 21300000, guid: 4fb736e99098b9449a79768d14fb7703, type: 3}
+  - {fileID: 21300000, guid: 9b07143c68e44e84c806442347824cac, type: 3}
+  - {fileID: 21300000, guid: 834d3a8c17eb3814a8f82f2c2a5069ef, type: 3}
+  - {fileID: 21300000, guid: 9fc865eda77ae4347853ff865a1fd3e8, type: 3}
+  - {fileID: 21300000, guid: c45e845f03b936e4cb5146a1110fe2de, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - 1
+  - 5
+  - 2
+  - 1
+  - 6
+  - 2
+  - 4
+  - 3
+  - 5
+  - 3
+  m_RenderDataMap: {}
+  m_Tag: blast
+  m_IsVariant: 0
