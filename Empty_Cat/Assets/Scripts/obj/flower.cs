@@ -8,7 +8,6 @@ public class flower : MonoBehaviour
     
     private Animator animator;
 
-    
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +28,7 @@ public class flower : MonoBehaviour
         animator.SetBool("LifeFlower", true);
         //this.gameObject.GetComponent<SpriteRenderer>().sprite = life;
     }
-   private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {

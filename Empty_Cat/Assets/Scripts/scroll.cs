@@ -7,7 +7,7 @@ public class scroll : MonoBehaviour
     private float width; // 배경의 가로 길이
     public CameraManager Camera;
     private float distance = 25;
-    private float speed = 0.03f;
+    private float speed = 0.01f;
     private Vector2 vector;
     private void Awake()
     {
